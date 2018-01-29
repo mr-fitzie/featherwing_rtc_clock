@@ -15,7 +15,7 @@ and [Philip R. Moyer](https://learn.adafruit.com/7-segment-display-internet-cloc
 Segment alphabet values calculated using [Jose Pino's excellent Excel template](http://www.josepino.com/microcontroller/7-segment-ascii)
 
 ## Circuit Design
-![circuit](Feather RTC Clock_bb.png)
+![circuit](https://github.com/synthtc/featherwing_rtc_clock/raw/master/Feather%20RTC%20Clock_bb.pngg)
 
 ## License
 ```
