@@ -1,4 +1,5 @@
 # featherwing_rtc_clock
+Simple RTC Digital Clock with Adafruit Feather/FeatherWings
 
 Feather / FeatherWings used
 * [Adafruit Feather 32u4 Adalogger](https://www.adafruit.com/product/2795)
@@ -14,6 +15,7 @@ and [Philip R. Moyer](https://learn.adafruit.com/7-segment-display-internet-cloc
 Segment alphabet values calculated using [Jose Pino's excellent Excel template](http://www.josepino.com/microcontroller/7-segment-ascii)
 
 ## Circuit Design
+![circuit](Feather RTC Clock_bb.png)
 
 ## License
 ```
